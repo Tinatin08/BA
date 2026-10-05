@@ -1,0 +1,2 @@
+# BA
+Training mit GNNs
